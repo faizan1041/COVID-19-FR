@@ -1,4 +1,3 @@
-
 ## intent:covid_myth_cure
 - Peut-on guérir du COVID-19 ?
 - Y a-t-il quelque chose qui guérisse du coronavirus ?
@@ -264,7 +263,6 @@
 - Quelles sont mes chances d'attraper le coronavirus ?
 - Vais-je attraper le COVID-19 ?
 - Vais-je attraper le coronavirus ?
-- Vais-je attraper le coronavirus ?
 - Vais-je attraper la maladie ?
 - Quelle est la probabilité que je contracte le coronavirus ?
 - Quelle est la probabilité que je sois infecté par le COVID-19 ?
@@ -291,7 +289,6 @@
 - COVID-19 et coronavirus désignent-ils la même chose ?
 - Pouvez-vous expliquer ce qu'est le coronavirus ?
 - Pouvez-vous expliquer ce qu'est le COVID-19 ?
-- COVID-19 et coronavirus désignent-ils la même chose ?
 - Qu'est-ce que le COVID-19 ?
 - Qu'est-ce que le coronavirus ?
 - Quelle est la différence entre COVID-19 et coronavirus ?
@@ -335,25 +332,21 @@
 - Arrêter
 - arrêtez de parler
 - bonne nuit
-- Au revoir
 - Annuler
 - allez-vous en
 - Non merci
 - non
 - Ce sera tout, merci
 - ce sera tout
-- Non merci
 - c'est tout, merci
 - c'est tout pour aujourd'hui
 
 ## intent:greeting
 - quoi de neuf
-- quoi de neuf
 - Que fais-tu
 - Que pouvez-vous faire
 - Hep
 - oh
-- quoi de neuf
 - salut.
 - Bonjour.
 - salut!
@@ -361,5 +354,6 @@
 - eh
 - Bonjour
 - bon après-midi
-- Bonjour
 - Salut
+- hi
+- hello
