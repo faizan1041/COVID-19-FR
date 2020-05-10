@@ -1,0 +1,365 @@
+
+## intent:covid_myth_cure
+- Peut-on guérir du COVID-19 ?
+- Y a-t-il quelque chose qui guérisse du coronavirus ?
+- Y a-t-il un remède contre le corona ?
+- Quel est le remède contre le COVID-19 ?
+- Quelqu'un a-t-il trouvé un remède contre le coronavirus ?
+- Y a-t-il un remède contre le COVID-19 ?
+- Un remède contre le corona a-t-il été trouvé ?
+
+## intent:covid_myth_antibiotics
+- Existe-t-il des preuves que les antibiotiques tuent le COVID-19 ?
+- Comment les antibiotiques empêchent-ils l'infection au COVID-19 ?
+- Le corona peut-il être guéri à l'aide d'antibiotiques ?
+- Existe-t-il des antibiotiques pouvant tuer le coronavirus ?
+- Les antibiotiques peuvent-ils tuer le coronavirus ?
+- Quels antibiotiques empêchent l'infection au COVID-19 ?
+- Devrais-je commencer à prendre plus d'antibiotiques ?
+
+## intent:covid_myth_garlic
+- Puis-je utiliser l'ail comme un moyen de me protéger du coronavirus ?
+- Comment l'ail protège-t-il du COVID-19 ?
+- Est-il vrai que l'ail a empêché les gens d'attraper le coronavirus ?
+- L'ail peut-il tuer le corona ?
+- Quels sont les bienfaits de l'ail ?
+- Devrais-je commencer à manger davantage d'ail ?
+- L'ail peut-il empêcher d'attraper le COVID-19 ?
+
+## intent:covid_myth_saline_rinse
+- Pourquoi le sérum physiologique peut-il tuer le corona ?
+- Le fait de me laver le nez peut-il m'empêcher d'attraper le coronavirus ?
+- Y a-t-il des preuves que le sérum physiologique tue le COVID-19 ?
+- En quoi du sérum physiologique peut-il empêcher le corona d'évoluer ?
+- Puis-je utiliser du sérum physiologique pour arrêter l'évolution du coronavirus ?
+- Est-il vrai que le lavage de nez à l'aide de sérum physiologique empêche le COVID-19 d'évoluer ?
+- Devrais-je me laver le nez avec du sérum physiologique ?
+
+## intent:covid_myth_other_vaccines
+- Quels vaccins contre le corona sont disponibles ?
+- Les vaccins sont-ils efficaces pour tuer le corona ?
+- Est-il vrai que les vaccins neutralisent le coronavirus ?
+- Le vaccin contre la pneumonie peut-il empêcher l'infection au corona ?
+- Puis-je utiliser le vaccin contre la pneumonie pour éviter d'attraper le COVID-19 ?
+- Devrais-je me faire vacciner contre la pneumonie ?
+- D'autres vaccins protègent-ils du coronavirus ?
+
+## intent:covid_myth_alcohol_chlorine
+- Que puis-je utiliser pour guérir du coronavirus ?
+- Peut-on guérir du COVID-19 grâce au chlore ?
+- Puis-je utiliser de l'alcool ou du chlore pour tuer le coronavirus ?
+- Pulvériser du chlore sur mon corps me guérira-t-il du COVID-19 ?
+- Devrais-je utiliser un spray au chlore pour guérir du corona ?
+- Si j'ai attrapé le corona, l'alcool permet-il de le tuer ?
+- Pulvériser de l'alcool sur mon corps me guérira-t-il du corona ?
+
+## intent:covid_myth_thermal_scanners
+- Les scanners thermiques sont-ils un bon moyen de détection du corona ?
+- Quelle est la précision des tests réalisés à l'aide de scanners thermiques ?
+- Quelle est la fonction des scanners thermiques ?
+- Puis-je utiliser un scanner thermique pour voir si j'ai attrapé le corona ?
+- Que font les scanners thermiques ?
+- Les scanners thermiques sont-ils un test pour le COVID-19 ?
+- Les scanners thermiques peuvent-ils détecter le corona ?
+
+## intent:covid_myth_UV
+- La lumière ultraviolette désinfecte-t-elle du COVID-19 ?
+- Est-il possible d'utiliser la lumière ultraviolette pour désinfecter ma peau ?
+- Comment la lumière ultraviolette désinfecte-t-elle ?
+- Est-il vrai que la lumière ultraviolette tue le COVID-19 ?
+- Puis-je utiliser la lumière ultraviolette pour stériliser une surface ?
+- La lumière ultraviolette tue-t-elle le virus ?
+- Que fait la lumière ultraviolette ?
+
+## intent:covid_myth_hand_dryers
+- Les sèche-mains sont-ils efficaces pour tuer le coronavirus ?
+- Est-il possible d'utiliser un sèche-mains pour éviter d'attraper le corona ?
+- Puis-je utiliser un sèche-mains pour tuer le COVID-19 ?
+- Les sèche-mains peuvent-ils empêcher la propagation du coronavirus ?
+- Est-il vrai que les sèche-mains tuent le corona ?
+- Puis-je éviter d'attraper le COVID-19 si j'utilise un sèche-mains ?
+- Les sèche-mains peuvent-ils tuer le coronavirus ?
+
+## intent:covid_myth_hot_bath
+- Puis-je éviter d'attraper le COVID-19 en prenant un bain chaud ?
+- L'eau chaude peut-elle tuer le coronavirus ?
+- Le COVID-19 meurt-il dans un bain chaud ?
+- Dois-je prendre un bain pour ne pas attraper le coronavirus ?
+- L'eau chaude peut-elle aider à lutter contre le corona ?
+- Les bains empêchent-ils d'attraper le coronavirus ?
+- Puis-je me prémunir contre le COVID-19 en prenant un bain ?
+
+## intent:covid_myth_pets
+- Les animaux domestiques sont-ils à l'abri du coronavirus ?
+- Mon animal de compagnie peut-il attraper le corona ?
+- Les animaux domestiques sont-ils porteurs du COVID-19 ?
+- Mon chat pourrait-il attraper le corona ?
+- Est-il possible pour moi de contracter le coronavirus par mon chien ?
+- Les animaux peuvent-ils avoir le COVID-19 ?
+- Mes animaux domestiques peuvent-ils me transmettre le corona ?
+
+## intent:covid_myth_mosquitos
+- Est-ce vrai que les moustiques peuvent transmettre le corona ?
+- Une piqûre de moustique peut-elle contenir le corona ?
+- Les moustiques peuvent-ils transmettre le coronavirus ?
+- Un moustique peut-il me transmettre le COVID-19 ?
+- Est-il possible d'attraper le coronavirus à partir de piqûres de moustiques ?
+- Les moustiques peuvent-ils me transmettre le corona ?
+- Puis-je attraper le COVID-19 par une piqûre de moustique ?
+
+## intent:covid_myth_heat_kills
+- L'humidité est-elle mauvaise pour le corona ?
+- Les températures élevées sont-elles mauvaises pour le coronavirus ?
+- Le corona peut-il survivre à la chaleur ?
+- Le COVID-19 peut-il mourir à une certaine température ?
+- Le corona peut-il ne pas être transmis lorsqu'il fait chaud ?
+- Le COVID-19 peut-il survivre à des températures humides ?
+- La chaleur tue-t-elle réellement le coronavirus ?
+
+## intent:covid_myth_cold_kills
+- Le froid tue-t-il le coronavirus ?
+- La neige peut-elle tuer le corona ?
+- Quelle est la pire température pour le COVID-19 ?
+- Le coronavirus meurt-il dans la neige ?
+- Le froid tue-t-il le COVID-19 ?
+- Le corona peut-il survivre à n'importe quelle température ?
+- Le froid empêche-t-il d'attraper le corona ?
+
+## intent:covid_myth_only_old
+- Les jeunes peuvent-ils être infectés par le COVID-19 ?
+- Qui est le plus susceptible d'être infecté par le coronavirus ?
+- Le COVID-19 ne cible-t-il que les personnes âgées ?
+- Qui est le plus susceptible d'attraper le corona ?
+- Une catégorie d'âge particulière est-elle immunisée contre le corona ?
+- Qui peut attraper le corona ?
+- Les enfants sont-ils immunisés contre le corona ?
+
+## intent:covid_children_stress
+- Comment apaiser les enfants pendant la pandémie du COVID-19 ?
+- Comment faire en sorte que les enfants soient heureux pendant le confinement ?
+- Que devrais-je faire avec les enfants pendant la pandémie du COVID-19 ?
+- Comment occuper les enfants pendant le confinement ?
+- Que puis-je faire pour aider les enfants à se sentir moins stressés ?
+- Mes enfants sont stressés, que dois-je faire ?
+- Puis-je aider mes enfants à gérer leur stress ?
+
+## intent:covid_stress
+- Existe-t-il des ressources pour aider à faire face au stress ?
+- Comment garder le moral pendant le confinement ?
+- Comment puis-je faire face au stress pendant le confinement ?
+- Que puis-je faire contre le stress pendant la crise du coronavirus ?
+- Que dois-je faire si je me sens stressé(e) à cause du COVID-19 ?
+- Puis-je faire quelque chose contre le stress ?
+- Comment puis-je faire face au stress lié au corona ?
+
+## intent:covid_donate
+- Où devrais-je faire un don ?
+- Puis-je faire un don à l'OMS ?
+- Où puis-je donner de l'argent pour aider à la recherche contre le corona ?
+- Est-il possible de faire un don pour lutter contre le COVID-19 ?
+- Quels sites Web puis-je utiliser pour faire un don pour lutter contre le coronavirus ?
+- Puis-je faire un don pour aider à combattre le corona ?
+- Où puis-je faire un don pour la guérison du COVID-19 ?
+
+## intent:covid_travel_advice
+- Où puis-je trouver des conseils de voyage ?
+- Dois-je voyager si je suis malade ?
+- Comment puis-je me protéger contre le COVID-19 lors d'un voyage ?
+- Devrais-je éviter de voyager à cause du corona ?
+- Dans quels pays puis-je voyager ?
+- Puis-je encore voyager ?
+- Où puis-je voyager ?
+
+## intent:covid_myths_summary
+- Pouvez-vous briser certains mythes sur le COVID-19 ?
+- Quels sont les faits sur le coronavirus ?
+- Quelles sont les informations avérées à propos du COVID-19 ?
+- Y a-t-il eu de la désinformation sur le corona ?
+- Y a-t-il des mythes au sujet du coronavirus ?
+- Y a-t-il des informations erronées sur le COVID-19 ?
+- Quels sont les mythes à propos du corona ?
+
+## intent:covid_donts
+- La prise d'antibiotiques est-elle déconseillée ?
+- En quoi le COVID-19 est-il dangereux pour ma santé ?
+- Y a-t-il quelque chose que je devrais arrêter de faire ?
+- Le tabagisme peut-il aggraver le coronavirus ?
+- Que dois-je éviter de faire pour arrêter l'évolution du COVID-19 ?
+- Y a-t-il quelque chose qui m'expose à un risque plus élevé de contracter le corona ?
+- Que dois-je arrêter de faire pour éviter d'attraper le corona ?
+
+## intent:covid_on_surfaces
+- Où le corona peut-il survivre ?
+- Puis-je attraper le coronavirus en touchant une surface infectée ?
+- Pendant combien d'heures le COVID-19 peut-il survivre sur des surfaces ?
+- Le corona peut-il survivre en dehors du corps humain ?
+- Sur quelles surfaces le coronavirus survit-il ?
+- Le COVID-19 peut-il vivre sur des surfaces ?
+- Combien de temps le corona survit-il en dehors du corps humain ?
+
+## intent:covid_infection_sources
+- Comment puis-je attraper le corona ?
+- Les animaux peuvent-ils attraper le coronavirus ?
+- Comment puis-je attraper le COVID-19 ?
+- Mon chien peut-il me transmettre le corona ?
+- Quels animaux peuvent me transmettre le coronavirus ?
+- Les animaux peuvent-ils nous contaminer au COVID-19 ?
+- Mon animal de compagnie peut-il me transmettre le corona ?
+
+## intent:covid_incubation
+- Combien de temps une personne peut-elle ne pas présenter les symptômes du coronavirus ?
+- Qu'est-ce qu'une « période d'incubation » ?
+- À quel moment peut-on commencer à présenter des symptômes de corona ?
+- Quelle est la période d'incubation du COVID-19 ?
+- Combien de temps faut-il pour observer les symptômes du coronavirus ?
+- Combien de jours faut-il pour que je montre des symptômes du corona ?
+- Combien de temps faut-il pour présenter les symptômes du COVID-19 ?
+
+## intent:covid_masks
+- Les masques permettent-ils d'éviter d'attraper le COVID-19 ?
+- Un masque me protège-t-il du coronavirus ?
+- En quoi un masque protège-t-il du corona ?
+- Dois-je porter un masque pour ne pas attraper le COVID-19 ?
+- Puis-je empêcher l'évolution du coronavirus en portant un masque ?
+- Le fait de porter un masque m'empêche-t-il d'attraper le COVID-19 ?
+- Le fait de porter un masque m'empêche-t-il d'attraper le corona ?
+
+## intent:covid_SARS
+- Le corona est-il le SRAS ?
+- Le corona est-il différent du SRAS ?
+- En quoi le coronavirus est-il différent du SRAS ?
+- Y a-t-il des différences entre le coronavirus et le SRAS ?
+- Quelle est la différence entre le SRAS et le COVID-19 ?
+- Le SRAS et le corona sont-ils identiques ?
+- Le coronavirus et le SRAS sont-ils identiques ?
+
+## intent:covid_treatments
+- Quels traitements puis-je suivre pour me prémunir contre le coronavirus ou en guérir ?
+- Quels médicaments puis-je prendre contre le COVID-19 ?
+- Existe-t-il des thérapies pour arrêter le COVID-19 ?
+- Puis-je prendre des médicaments pour me prémunir contre le corona ou en guérir ?
+- Y a-t-il un vaccin contre le corona ?
+- Y a-t-il quelque chose qui puisse arrêter l'évolution du coronavirus ?
+- Existe-t-il un médicament qui guérisse ou empêche la contamination du corona ?
+
+## intent:covid_most_at_risk
+- Le coronavirus est-il plus dangereux pour certaines personnes ?
+- Y a-t-il des personnes plus susceptibles d'attraper le corona ?
+- Qui est le plus susceptible de mourir du corona ?
+- Qui est le plus à risque de contracter une forme sévère du COVID-19 ?
+- Qui est le plus à risque de contracter des symptômes graves liés au corona ?
+- Pour qui le COVID-19 est-il le plus dangereux ?
+- Qui est le plus touché par le coronavirus ?
+
+## intent:covid_anxiety
+- Dans quelle mesure devrais-je m'inquiéter du coronavirus ?
+- Vaut-il la peine de s'inquiéter pour le COVID-19 ?
+- Est-il normal d'être inquiet au sujet du COVID-19 ?
+- Dois-je m'inquiéter pour le COVID-19 ?
+- À quel point devrais-je m'inquiéter à propos du corona ?
+- Y a-t-il des raisons d'être inquiet au sujet du COVID-19 ?
+- Dois-je m'inquiéter pour le coronavirus ?
+
+## intent:covid_infection_likelihood
+- Quelles sont mes chances d'attraper le coronavirus ?
+- Vais-je attraper le COVID-19 ?
+- Vais-je attraper le coronavirus ?
+- Vais-je attraper le coronavirus ?
+- Vais-je attraper la maladie ?
+- Quelle est la probabilité que je contracte le coronavirus ?
+- Quelle est la probabilité que je sois infecté par le COVID-19 ?
+
+## intent:covid_protection
+- Comment puis-je arrêter la propagation du virus ?
+- Quelle protection existe-t-il contre le coronavirus ?
+- Comment puis-je protéger ma famille contre la maladie ?
+- Comment puis-je éviter d'attraper la maladie ?
+- Comment puis-je me protéger contre le COVID-19 ?
+- Comment puis-je me protéger ?
+- Comment puis-je me protéger contre le virus ?
+
+## intent:covid_how_spread
+- Comment les gens attrapent-ils le virus ?
+- Comment les gens attrapent-ils la maladie ?
+- Comment puis-je attraper la maladie ?
+- Comment la maladie se transmet-elle ?
+- Comment le virus se propage-t-il ?
+- Comment le COVID-19 se propage-t-il ?
+- Comment le coronavirus se propage-t-il ?
+
+## intent:covid_what_is_corona_covid-19
+- COVID-19 et coronavirus désignent-ils la même chose ?
+- Pouvez-vous expliquer ce qu'est le coronavirus ?
+- Pouvez-vous expliquer ce qu'est le COVID-19 ?
+- COVID-19 et coronavirus désignent-ils la même chose ?
+- Qu'est-ce que le COVID-19 ?
+- Qu'est-ce que le coronavirus ?
+- Quelle est la différence entre COVID-19 et coronavirus ?
+
+## intent:covid_symptoms
+- Quels sont les symptômes ?
+- Quels sont les signes de la maladie du coronavirus ?
+- Suis-je malade ?
+- Ai-je le coronavirus ?
+- Ai-je le COVID-19 ?
+- Comment puis-je savoir si j'ai attrapé le coronavirus ?
+- Quels sont les symptômes du COVID-19 ?
+- Quels sont les symptômes du coronavirus ?
+
+## intent:wash_hands_how
+- Le désinfectant pour les mains est-il plus efficace que le savon ?
+- Dois-je utiliser du désinfectant pour les mains à la place du savon ?
+- Combien de temps dois-je me laver les mains ?
+- Quel est le temps minimum pour se laver les mains ?
+- Quand je me lave les mains, combien de temps dois-je mettre ?
+- Dois-je utiliser du savon pour me laver les mains ?
+- Quelle est la bonne façon de me laver les mains ?
+- Comment dois-je me laver les mains ?
+
+## intent:wash_hands_frequency
+- se laver les mains
+- Que dois-je faire tous les jours ?
+- Pourquoi puis-je utiliser du savon ?
+- Quelle est la meilleure chose que je puisse faire pour rester propre ?
+- Quand dois-je me laver les mains ?
+- Devrais-je me laver les mains ?
+- Le lavage des mains : est-ce une bonne idée ?
+- Combien de fois par jour dois-je me laver les mains ?
+- À quelle fréquence dois-je me laver les mains ?
+
+## intent:goodbye
+- au revoir
+- c'est tout
+- Au revoir
+- à plus
+- Arrêter
+- arrêtez de parler
+- bonne nuit
+- Au revoir
+- Annuler
+- allez-vous en
+- Non merci
+- non
+- Ce sera tout, merci
+- ce sera tout
+- Non merci
+- c'est tout, merci
+- c'est tout pour aujourd'hui
+
+## intent:greeting
+- quoi de neuf
+- quoi de neuf
+- Que fais-tu
+- Que pouvez-vous faire
+- Hep
+- oh
+- quoi de neuf
+- salut.
+- Bonjour.
+- salut!
+- salut
+- eh
+- Bonjour
+- bon après-midi
+- Bonjour
+- Salut
