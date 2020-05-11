@@ -158,3 +158,6 @@
 * greeting
  - utter_answer_greeting
 
+## chitchat_howareyou
+* chitchat_howareyou
+ - utter_answer_chitchat_howareyou

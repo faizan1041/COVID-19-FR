@@ -357,3 +357,12 @@
 - Salut
 - hi
 - hello
+
+## intent:chitchat_howareyou
+- ca va?
+- Vous allez bien?
+- Ca va?
+- Comment tu t'appelles
+
+## intent:fallback
+- ?
