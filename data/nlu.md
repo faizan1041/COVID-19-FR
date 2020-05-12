@@ -204,6 +204,7 @@
 - Quels animaux peuvent me transmettre le coronavirus ?
 - Les animaux peuvent-ils nous contaminer au COVID-19 ?
 - Mon animal de compagnie peut-il me transmettre le corona ?
+- Mode de transmission
 
 ## intent:covid_incubation
 - Combien de temps une personne peut-elle ne pas présenter les symptômes du coronavirus ?
@@ -357,3 +358,19 @@
 - Salut
 - hi
 - hello
+- Hello
+
+## intent:chitchat_name
+- Comment tu t'appelles
+
+## intent:covid_myth_bananas
+- Est-ce que les bananes cuites guerissent la maladie?
+- Est-ce que les bananes sont magiques?
+- Les bananes aident contre Corona?
+- Les bananes sont-elles bonnes contre la Korona?
+- Est-ce qu'on peut utiliser les bananes pour la prevention de corona?
+- Les bananes tuent le virus?
+- Dois-je manger des bananes a cause de la corona?
+
+## intent:chitchat_howareyou
+- Ca va?

@@ -1,7 +1,3 @@
-## answercovid_myth_cure
-* covid_myth_cure
- - utter_answer_covid_myth_cure
-
 ## answercovid_myth_antibiotics
 * covid_myth_antibiotics
  - utter_answer_covid_myth_antibiotics
@@ -158,3 +154,15 @@
 * greeting
  - utter_answer_greeting
 
+## answerchitchat_name
+* chitchat_name
+ - utter_answer_chitchat_name
+
+## answercovid_myth_bananas
+* covid_myth_bananas
+ - utter_answer_covid_myth_bananas
+
+## New Story
+
+* covid_infection_sources
+    - utter_answer_covid_infection_sources
